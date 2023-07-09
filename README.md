@@ -70,5 +70,5 @@ git clone https://github.com/YaroslavNogovitsyn/status_test
 
 ### Запуск тестов
 ```bash
-python3 tests.py
+python3 test_file.py
 ```
