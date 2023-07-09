@@ -65,7 +65,7 @@ ts.getAllParents(7)
 
 ### Клонируйте репозиторий
 ```bash
-git clone https://github.com/YaroslavNogovitsyn/status_test
+git clone https://github.com/YaroslavNogovitsyn/Status_test
 ```
 
 ### Запуск тестов
